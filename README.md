@@ -60,7 +60,7 @@ npm start
 
 Access Dashboard using : [http://localhost:8080/dashboard](http://localhost:8080/dashboard)
 
-Customer loyalty for eCommerce using [Loyaly](http://loyaly.com)
+Customer Loyalty for eCommerce using [Loyaly](http://loyaly.com) to increase customer retention and make customers come back again. 
 
 # Join Our Community
 <a href="https://discord.gg/5RgZmkW">
